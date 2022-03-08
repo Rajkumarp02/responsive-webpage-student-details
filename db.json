@@ -1,0 +1,103 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "dhvya Narasimhan",
+      "score":75,
+      "previousscore":50,
+      "grade":1
+    },
+    {
+      "id": 2,
+      "name": "madhumathi",
+      "score":35,
+      "previousscore":34,
+      "grade":2
+    },
+    {
+      "id": 3,
+      "name": "swapnil",
+      "score":50,
+      "previousscore":75,
+      "grade":4
+    },
+    {
+      "id": 4,
+      "name": "nlrula",
+      "score":99,
+      "previousscore":35,
+      "grade":3
+    },
+    {
+      "id":5,
+      "name":"tanvee",
+      "score":40,
+      "previousscore":90,
+      "grade":4
+     
+    },
+    {
+      "id":6,
+      "name": "venkat madhavan",
+      "score":80,
+      "previousscore":75,
+      "grade":3
+    },
+    {
+      "id":7,
+      "name": "hariharan",
+      "score":61,
+      "previousscore":61,
+      "grade":4
+    },
+    {
+      "id":8,
+      "name": "vishaan choudary",
+      "score":54,
+      "previousscore":35,
+      "grade":2
+    },
+    {
+      "id":9,
+      "name": "tanmayi gautami",
+      "score":95,
+      "previousscore":84,
+      "grade":4
+    },
+    {
+      "id":10,
+      "name": "varuna viyalakshmi",
+      "score":35,
+      "previousscore":35,
+      "grade":1
+    },
+    {
+      "id":11,
+      "name": "paada kamalesha",
+      "score":51,
+      "previousscore":41,
+      "grade":2
+    },
+    {
+      "id":12,
+      "name": "meru pranshela",
+      "score":87,
+      "previousscore":80,
+      "grade":4
+    },
+    {
+      "id":13,
+      "name": "kanthi swarneshwari iyer",
+      "score":97,
+      "previousscore":99,
+      "grade":3
+    },
+    {
+      "id":14,
+      "name": "hiranmayi chimpulkar",
+      "score":63,
+      "previousscore":36,
+      "grade":2
+    }
+  ]
+}
